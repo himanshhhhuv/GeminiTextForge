@@ -21,7 +21,7 @@ GeminiTextForge is a creative text generation tool powered by the Google Gemini 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/GeminiTextForge.git
+    git clone https://github.com/himanshhhhuv/GeminiTextForge.git
     cd GeminiTextForge
     ```
 
